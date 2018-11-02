@@ -3,7 +3,7 @@
 namespace JikanDotNet
 {
 	/// <summary>
-	/// Studio model class.
+	/// Genre model class.
 	/// </summary>
 	public class Genre
 	{
